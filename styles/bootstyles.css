@@ -1,0 +1,40 @@
+body {
+    background-color: skyblue;
+}
+
+.navigation {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 60px;
+}
+
+.navigationbar {
+    display: flex;
+    flex-direction: row;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 0;
+    list-style: none;
+    position: static;
+}
+
+.tableau {
+    top: 70px;
+    bottom: 70px;
+}
+
+.footer {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    bottom: 5px;
+    height: 60px;
+    left: 5px;
+    right: 5px;
+}

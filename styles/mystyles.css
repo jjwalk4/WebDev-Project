@@ -1,0 +1,25 @@
+#mainNav .navbar-brand {
+    color: rgb(255, 255, 255);
+}
+
+#mainNav {
+    background-color: darkgreen;
+}
+
+body {
+    background-image: url("../images/slc.jfif");
+    color: darkgreen;
+}
+
+.cta {
+    background-color: darkgreen;
+}
+
+.bg-faded {
+    background-color: whitesmoke;
+}
+
+.footer {
+    background-color: darkgreen;
+    color: rgb(255, 255, 255);
+}
